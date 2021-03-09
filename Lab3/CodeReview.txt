@@ -9,4 +9,9 @@ Phase 1 - Naming conventions
 
 -remove the hard-coded values aka "magic numbers"
 
--remove
+-add validations for input values
+
+Phase 2 - KISS & Single Responsability
+-simplify the expressions
+-a function should do only one thing
+
