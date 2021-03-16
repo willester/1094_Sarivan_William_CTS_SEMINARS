@@ -17,4 +17,5 @@ Phase 2 - KISS & Single Responsibility
 
 Phase 3 - Single Responsibility & Dependency Inversion (DIP)
 - the static final value may change when the marketing strategy will change
--getFidelityDiscount() amy change when marketing strategy will change
+-getFidelityDiscount() amy change when marketing strategy will change\
+-remove the dependency on the validation rules
