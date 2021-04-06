@@ -13,6 +13,7 @@ public class TestSimpleFactory {
         batman.setWeapon(WeaponsFactory.getWeapon(WeaponType.BAZOOKA,"BOOM"));
 
 
+
     }
 
 }
