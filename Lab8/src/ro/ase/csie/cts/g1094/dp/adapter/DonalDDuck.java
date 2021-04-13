@@ -11,6 +11,16 @@ public class DonalDDuck implements DisneyActions{
     }
 
     @Override
+    public String getName() {
+        return this.name;
+    }
+
+    @Override
+    public int getPower() {
+        return this.powerLevel;
+    }
+
+    @Override
     public void changeLocation(int x, int y) {
         System.out.println("move a new location");
     }
